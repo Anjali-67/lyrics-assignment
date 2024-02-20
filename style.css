@@ -1,0 +1,39 @@
+.main{
+    background-image: url(image/lover.jpg );
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+    padding: 40px;
+    height: auto;
+}
+.timeline{
+    margin-left: 0px;
+    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: -20px;
+
+}
+.timeline_bar{
+    width: 580px;
+}
+.player{
+    width: 600px;
+}
+
+.lyrics{
+    margin-top: -100px;
+    margin-left: 350px;
+    
+}
+.lyrics b{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+}
+.lyrics p{
+    font-size: 22px;
+    font-weight: 600;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
